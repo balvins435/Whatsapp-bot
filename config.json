@@ -1,0 +1,23 @@
+
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "bot", 
+	"zeksKey": "apivinz", 
+	"autoRead": false, 
+	"maxLimit": 15, 
+	"ownerList": ["254702828050@s.whatsapp.net","62857024477637@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+        "apiLol": "https://api.lolhuman.xyz",
+        "apiUhy": "https://dapuhy-api.herokuapp.com",
+        "imgUrl": "https://i.ibb.co/c80cZ3Y/pp-biodata.jpg",
+        "igUrl": "https://instagram.com/_vinnbalvins.real",
+        "githubUrl": "https://github.com/balvins435",
+	"botname": "J-BOT", 
+        "ownername": "Balvins",
+	"xkey": "your_key", 
+        "eztykey": "eztyb",
+        "lolkey": "your_key", 
+        "uhykey": "your_key",
+	"pack": "J-BOT", 
+	"author": "By Balvins"
+}
